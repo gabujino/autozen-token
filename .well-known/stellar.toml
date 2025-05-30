@@ -1,0 +1,11 @@
+[DOCUMENTATION]
+ORG_NAME="AutoZen"
+ORG_URL="https://gabujino.github.io/autozen-token"
+
+[[CURRENCIES]]
+code="AZN"
+issuer="GDSDQKGQCFKAFMZA3KGI3IQL3R6ME33MKRBU7TH64DIFEJL5TZGH3DV2"
+display_decimals=2
+name="AutoZen"
+desc="Safe driving reward token"
+image="https://gabujino.github.io/autozen-token/logo.png"
